@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "streaming-form-data"
+name = "streaming-form-data-async"
 version = "1.5.0"
 description = "Streaming parser for multipart/form-data"
 authors = ["Siddhant Goel <me@sgoel.org>"]
